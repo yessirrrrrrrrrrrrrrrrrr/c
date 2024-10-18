@@ -1,0 +1,5 @@
+    {
+       "rooms": 200,
+       "monster_sleep_time": 10,
+       "lives": 3
+    }
